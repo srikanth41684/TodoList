@@ -1,0 +1,216 @@
+.body{
+    font-family: sans-serif;
+}
+.body2{
+    position: relative;
+    left: 200px;
+    top: 150px;
+}
+.task{
+    font-size: 50px;
+    font-weight: bold;
+    display: flex;
+}
+.list{
+    font-size: 50px;
+    color: lightslategray;
+    font-weight: 100;
+}
+.box{
+    border: 1px solid red;
+    width: 200px;
+    height: 300px;
+    border-radius: 10px;
+    text-align: center;
+    display: inline-block;
+    box-shadow: 10px 10px 10px lightgray;
+}
+.hr{
+    margin-left: 40px;
+}
+.trip{
+    color: tomato;
+    font-size: x-large;
+    text-decoration: none;
+}
+.com{
+    color: red;
+    text-decoration: line-through;
+}
+.box2{
+    position: relative;
+    left: 50px;
+    top: 20px;
+}
+.box3{
+    position: relative;
+    left: 100px;
+    top: 20px;
+}
+.add{
+    border: 0px;
+    width: 45px;
+    height: 45px;
+    background-color: red;
+    border-radius: 50px;
+
+}
+.left{
+    border: 0px;
+    width: 4px;
+    height: 25px;
+    background-color: white;
+    position: relative;
+    bottom: 35px;
+    left: 20px;
+}
+.right{
+    border: 0px;
+    width: 25px;
+    height: 4px;
+    background-color: white;
+    position: relative;
+    bottom: 50px;
+    left: 10px;
+}
+.body1{
+    filter: blur(10px);
+}
+.new{
+    border: 1px solid red;
+    width: 400px;
+    height: 150px;
+    background-color: white;
+    border-radius: 10px;
+    color: red;
+    text-align: center;
+    padding: 20px;
+    position: relative;
+    bottom: 250px;
+    left: 350px;
+}
+.add1{
+    background-color: red;
+    border: none;
+    color: white;
+    border-radius: 15px;
+    transform: scale(1.5);
+    margin-top: 10px;
+}
+.add2{
+    border: thin solid red;
+    transform: scale(1.5);
+    box-shadow: 5px 5px 5px lightgrey;
+}
+.circle{
+    position: relative;
+    bottom: 370px;
+    left: 520px;
+}
+.list2{
+    font-size: 30px;
+    color: lightslategray;
+    font-weight: 100;
+    position: relative;
+    left: 65px;
+    bottom: 65px;  
+}
+.head1{
+    text-decoration: gray line-through;
+    color: white;
+    padding: 40px;
+    
+}
+.head{
+    display: flex;
+}
+.head2{
+    font-weight: bolder;
+    font-size: 40px;
+}
+.less{
+    border: 0px;
+    width: 30px;
+    height: 30px;
+    border-radius: 50px;
+    color: white;
+    background-color: red;
+    text-align: left;
+    font-size: 25px;
+    padding: 8px;
+}
+.less1{
+    border: 0px;
+    width: 20px;
+    height: 2px;
+    background-color: white;
+    position: relative;
+    right: 35px;
+    top: 21px;
+}
+.back{
+    font-size: 25px;
+    color: grey;
+    padding: 8px;
+}
+.back1{
+    display: flex;
+    position: relative;
+    left: 250px;
+}
+.tripbox{
+    border: 1px solid red;
+    width: 300px;
+    height: 400px;
+    text-align: center;
+    border-radius: 10px;
+    position: relative;
+    left: 170px;
+    box-shadow: 8px 8px 15px lightslategray;
+}
+.circle2{
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    background-color: red;
+}
+.left2{
+    border: 0px;
+    width: 33px;
+    height: 5px;
+    background-color: white;
+    position: relative;
+    left: 9px;
+    top: 22px;
+}
+.right2{
+    border: 0px;
+    width: 5px;
+    height: 33px;
+    background-color: white;
+    position: relative;
+    bottom: 11px;
+    left: 22px;
+}
+.circle3{
+    position: relative;
+    left: 230px;
+    top: 120px;
+}
+.bodys{
+    text-align: center;
+    position: relative;
+    left: 300px;
+    top: 40px;
+}
+.bodyss{
+    filter: blur(10px);
+}
+.new2{
+    position: relative;
+    bottom: 400px;
+    left: 80px;
+}
+.final{
+    text-decoration: none;
+}
